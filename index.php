@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Kalkulator</h1>
-	<form method = "post" action = "hasil.php">
+	<form method = "post" action ="/git/kalkulator/hasil">
 	<table>
 		<tr>
 			<td><input type = "number" name = "number1"></td>
@@ -16,7 +16,7 @@
 			<td><input type = "number" name = "number2"></td>
 		</tr>
 		<tr>
-			<td><input type = "submit" value = "Jumlah"></td>
+			<td><input type = "submit" value = "hitung"></td>
 		</tr>
 	</table>
 </body>
