@@ -13,8 +13,8 @@
 		<tr>
 			<td><input type = "number" name = "number1"></td>
 			<td><input type = "text" size = "2px" name = "hitung"></td>
-			<td><input type = "number" name = "number2"></td>
-			<td><input type = "text" size = "2px" name = "= " <?php $hasil  ?>></td>
+			<td><input type = "number" name = "number2"></td> =
+			<td><input type = "text" size = "2px" name = <?php include:'hasil.php'; $hasil ?>></td>
 		</tr>
 		<tr>
 			<td><input type = "submit" value = "hitung"></td>
