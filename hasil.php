@@ -24,6 +24,8 @@ if ($hitung == "+") {
                 }
             }
         }
+    }
+}
 echo $hasil;
 ?>
 </body>
