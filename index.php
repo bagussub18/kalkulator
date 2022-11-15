@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Kalkulator</h1>
-	<form method = "post" action ="/git/kalkulator/hasil">
+	<form method = "post" action ="hasil.php">
 	<table>
 		<tr>
 			<td><input type = "number" name = "number1"></td>
