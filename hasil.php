@@ -26,7 +26,7 @@ if ($hitung == "+") {
         }
     }
 }
-?>
 header('location: index.php');
+?>
 </body>
 </html>
