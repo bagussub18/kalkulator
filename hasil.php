@@ -26,7 +26,8 @@ if ($hitung == "+") {
         }
     }
 }
-header('location: index.php');
+echo $hasil;
 ?>
+<a href="index.php">Kembali</a>
 </body>
 </html>
